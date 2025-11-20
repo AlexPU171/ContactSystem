@@ -31,8 +31,6 @@ struct Addressbooks {
 
 int main() {
 
-	std::cout << "Hello World !" << std::endl;
-
 	// 创建一个通讯录结构的变量
 	struct Addressbooks abs;
 	// 新的通讯录的人员个数变量初始化为0
